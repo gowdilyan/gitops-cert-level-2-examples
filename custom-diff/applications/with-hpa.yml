@@ -26,5 +26,5 @@ spec:
   - group: apps
     kind: Deployment
     jsonPointers:
-    - /data/replicas 
+    - /spec/replicas 
    
